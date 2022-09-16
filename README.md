@@ -10,7 +10,7 @@ This is a fork of the [Havoc](https://github.com/furrtek/portapack-havoc/) firmw
 
 *[PortaPack H2+HackRF+battery](https://s.click.aliexpress.com/e/_9zbXMk) (clone) with a custom [3d printed case](https://github.com/eried/portapack-mayhem/wiki/H2-Enclosure)*
 
-# OBJECTIVE
+# OBJECTIVE: BLACKOUT
 
 This version of portapack is going to attempt to focus on the details that haven't been ironed out yet. I'm doing it 'on my own' because I'm old and dont know how this stuff works. ;) I will likely just do pulls or something, but for now I wanted to play in a sandbox. You're welcome to watch.
 
